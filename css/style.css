@@ -1,0 +1,322 @@
+body{
+    margin: 0px;
+}
+#header{
+   background: url(../photo/header\ background.jpg);
+   /* background-repeat: no-repeat; */
+   width: 1343px;
+ 
+}
+#margin-menu{
+    margin: 30px;
+    margin-right: 485px;
+}
+.menu-icon{
+    background-color: white;
+    width: 20px;
+    height: 3px;
+    margin: 4px 0px;
+}
+#navbar{
+    display: flex;
+}
+#porche-word{
+    color: white;
+    text-align: center;
+    font-size: 23px;
+    margin: 30px;
+    font-family:"porche" ;
+}
+@font-face{
+    font-family:"porche";
+    src: url(../font/Porsche\ Regular.ttf);
+}
+#search-icon{
+    margin-top: 28px;
+    margin-left: 430px;
+    padding-left: 0px;
+    width: 20px;
+}
+#human-icon{
+    margin-top: 28px;
+    margin-left: 10px;
+    width: 20px;
+}
+.h1-in-header{
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 140px;
+    font-size: 100px;
+    font-weight: 100;
+    font-family:bb;    
+}
+@font-face{
+font-family: bb;
+src: url(../font/ARIALN.TTF);
+}
+#sail-taycan{
+    color: white;
+    text-decoration: none;
+    margin-top: 50px;
+    margin-left: 140px;
+    padding: 20px;
+    border: solid white 2px;
+}
+#after-header{
+    display: flex;
+    gap: 30px;
+    margin-left: 240px;
+    margin-top: 90px;
+}
+figure{
+    margin: 0px;
+}
+h2{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 40px;
+    font-family: bb;
+}
+#first-line{
+    display: flex;
+    margin-left: 210px;
+    margin-bottom: 30px;
+    gap: 30px;
+}
+#second-line{
+    display: flex;
+    margin-left: 210px;
+    margin-bottom: 30px;
+    gap: 30px;
+}
+#theard-line{
+    display: flex;
+    margin-left: 210px;
+    margin-bottom: 30px;
+    gap: 30px;
+}
+#p-a-718{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+#b-718{
+    margin-left: 4px;
+    padding: 20px 178px;
+    border: 1px solid white;
+    text-decoration: none;
+    color: white;
+    font-family: bb;
+}
+#m-718{
+    margin-left: 4px;
+    padding: 20px 178px;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    font-family: bb;
+}
+#p-a-911{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+#b-911{
+    margin-left: 4px;
+    padding: 20px 178px;
+    border: 1px solid white;
+    text-decoration: none;
+    color: white;
+    font-family: bb;
+}
+#m-911{
+    margin-left: 4px;
+    padding: 20px 178px;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    font-family: bb;
+}
+#p-a-taycan{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+#b-taycan{
+    margin-left: 4px;
+    padding: 20px 168px;
+    border: 1px solid white;
+    text-decoration: none;
+    color: white;
+    font-family: bb;
+}
+#m-taycan{
+    margin-left: 4px;
+    padding: 20px 168px;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    font-family: bb;
+}
+#p-a-panamera{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+#b-panamera{
+    margin-left: 4px;
+    padding: 20px 158px;
+    border: 1px solid white;
+    text-decoration: none;
+    color: white;
+    font-family: bb;
+}
+#m-panamera{
+    margin-left: 4px;
+    padding: 20px 158px;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    font-family: bb;
+}
+#p-a-macan{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+#b-macan{
+    margin-left: 4px;
+    padding: 20px 169px;
+    border: 1px solid white;
+    text-decoration: none;
+    color: white;
+    font-family: bb;
+}
+#m-macan{
+    margin-left: 4px;
+    padding: 20px 169px;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    font-family: bb;
+}
+#p-a-cayenne{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+#b-cayenne{
+    margin-left: 4px;
+    padding: 20px 162px;
+    border: 1px solid white;
+    text-decoration: none;
+    color: white;
+    font-family: bb;
+}
+#m-cayenne{
+    margin-left: 4px;
+    padding: 20px 162px;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    font-family: bb;
+}
+#p-zire-mod{
+    font-size: smaller;
+    text-align: center;
+}
+#yellow-por{
+    display: flex;
+}
+#black-p{
+    background-color: black;
+    width: 450px;
+    height: 300px;
+    margin-left: 180px;
+
+}
+#black-p h2{
+    color: white;
+    margin-top: 70px;
+    margin-bottom: 0px;
+    font-size: 30px;
+}
+#black-p p{
+    color: white;
+    font-family: bb;
+   padding: 40px;
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+#black-p a{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 20px 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    font-family: bb;
+}
+#find-your-new{
+    display: flex;
+}
+#ppp{
+    width: 400px;
+    margin-top: 50px;
+    margin-left: 220px;
+}
+#ppp h2{
+    font-family: bb;
+    color: black;
+    margin-top: 0px;
+    font-size: 35px;
+}
+#ppp p{
+    font-family: bb;
+    color: black;
+    margin-top: 0px;
+}
+#ringg{
+    margin-left: 150px;
+}
+#discover{
+    display: flex;
+    gap: 30px;
+    margin-left: 180px;
+}
+footer{
+    background-color: black;
+}
+footer p{
+    color: white;
+    font-family: bb;
+}
+footer h3{
+    color: white;
+    font-family: bb;
+}
+#footer-link{
+    display: flex;
+    gap: 30px;
+}
+#newsletter{
+    font-family: bb;
+    margin-left: 40px;
+}
+.aaa{
+    text-decoration: none;
+    color: white;
+}
+
+#sub{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    padding: 15px 110px;
+    background-color: white;
+}
+#contact{
+    font-family: bb;
+}
+#social-media{
+    font-family: bb;
+}
+#social a{
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    padding: 15px 20px;
+    margin-left: 8px;
+}
+
+
+
